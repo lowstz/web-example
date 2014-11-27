@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/lowstz/web-example",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.4.2",
+			"Rev": "07c628c7e9f813efc3f7e1785f667e08f2340d53"
+		}
+	]
+}
