@@ -76,7 +76,7 @@
 			    <br />
 			        I had a problem so I thought to use Java.
 			    <br />
-			        Now I have a ProblemFactory
+			        Now I have a ProblemFactory. Orz
 			    </p>
 			  </div>
 			</div>
