@@ -72,7 +72,11 @@
 			    <br />
 			    	Official website: <a href="http://{{.Website}}">{{.Website}}</a>
 			    <br />
-			    	Contact me: {{.Email}}
+			        Contact me: {{.Email}}
+			    <br />
+			        I had a problem so I thought to use Java.
+			    <br />
+			        Now I have a ProblemFactory
 			    </p>
 			  </div>
 			</div>
